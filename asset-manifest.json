@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00ee6721.chunk.css",
+    "main.js": "/static/js/main.59689adb.chunk.js",
+    "main.js.map": "/static/js/main.59689adb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.59b9153f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.59b9153f.js.map",
+    "static/css/2.165ff965.chunk.css": "/static/css/2.165ff965.chunk.css",
+    "static/js/2.4c7c3384.chunk.js": "/static/js/2.4c7c3384.chunk.js",
+    "static/js/2.4c7c3384.chunk.js.map": "/static/js/2.4c7c3384.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.165ff965.chunk.css.map": "/static/css/2.165ff965.chunk.css.map",
+    "static/css/main.00ee6721.chunk.css.map": "/static/css/main.00ee6721.chunk.css.map",
+    "static/js/2.4c7c3384.chunk.js.LICENSE.txt": "/static/js/2.4c7c3384.chunk.js.LICENSE.txt",
+    "static/media/bank-account-icon.7432a3c3.svg": "/static/media/bank-account-icon.7432a3c3.svg",
+    "static/media/house-icon.c09d93f1.svg": "/static/media/house-icon.c09d93f1.svg",
+    "static/media/logo.fc2d7e76.svg": "/static/media/logo.fc2d7e76.svg",
+    "static/media/logo_footer.cd89c417.svg": "/static/media/logo_footer.cd89c417.svg",
+    "static/media/more-btn-icon.d934740a.svg": "/static/media/more-btn-icon.d934740a.svg",
+    "static/media/pan-icon.3b331e36.svg": "/static/media/pan-icon.3b331e36.svg",
+    "static/media/phone-icon.d1ae28ff.svg": "/static/media/phone-icon.d1ae28ff.svg",
+    "static/media/photo-item-big.7a76ddda.png": "/static/media/photo-item-big.7a76ddda.png",
+    "static/media/photo-item.9ae67c3d.png": "/static/media/photo-item.9ae67c3d.png",
+    "static/media/photo-user.636a6b35.png": "/static/media/photo-user.636a6b35.png",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/statement-icon.13c86814.svg": "/static/media/statement-icon.13c86814.svg",
+    "static/media/transfer-icon.7f75ada7.svg": "/static/media/transfer-icon.7f75ada7.svg",
+    "static/media/user-icon-active.1dba6fa9.svg": "/static/media/user-icon-active.1dba6fa9.svg",
+    "static/media/user-icon.b3c50d57.svg": "/static/media/user-icon.b3c50d57.svg",
+    "static/media/wallte-icon.49dcf986.svg": "/static/media/wallte-icon.49dcf986.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59b9153f.js",
+    "static/css/2.165ff965.chunk.css",
+    "static/js/2.4c7c3384.chunk.js",
+    "static/css/main.00ee6721.chunk.css",
+    "static/js/main.59689adb.chunk.js"
+  ]
+}
